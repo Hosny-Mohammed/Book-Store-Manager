@@ -1,0 +1,29 @@
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\bin\Debug\Book Store Manager.exe.config
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\bin\Debug\Book Store Manager.exe
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\bin\Debug\Book Store Manager.pdb
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\Book Store Manager.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\LogIn_Page.g.cs
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\MainWindow.g.cs
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\App.g.cs
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\Book Store Manager_MarkupCompile.cache
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\Book Store Manager_MarkupCompile.lref
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\LogIn_Page.baml
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\MainWindow.baml
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\Book Store Manager.g.resources
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\Book_Store_Manager.Properties.Resources.resources
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\Book Store Manager.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\Book Store Manager.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\Book Store Manager.exe
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\Book Store Manager.pdb
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\SignUp_Page.g.cs
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\SignUp_Page.baml
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\ForgetPassword_Page.g.cs
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\ForgetPassword_Page.baml
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\Borrowing_Page.g.cs
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\Borrowing_Page.baml
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\bin\Debug\EntityFramework.dll
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\bin\Debug\EntityFramework.xml
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\Book Store Manager_Content.g.cs
+C:\Users\PC\source\repos\Book Store Manager\Book Store Manager\obj\Debug\Book Sto.45BD9D93.Up2Date
