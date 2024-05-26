@@ -54,7 +54,8 @@ namespace Book_Store_Manager
                     {
                         MessageBox.Show("Log In Successfully", "Message");
 
-                        // Navigate To another page
+                        Librarian_Page page = new Librarian_Page(Librarian.Name);
+                        this.NavigationService.Navigate(page);
                     }
                     else
                     {

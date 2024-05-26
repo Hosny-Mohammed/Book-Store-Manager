@@ -1,0 +1,98 @@
+﻿<Page x:Class="Book_Store_Manager.Librarian_Page"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Book_Store_Manager"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Librarian_Page">
+
+    <Grid Margin="10,0,10,0">
+        <Grid.Background>
+            <ImageBrush ImageSource="Background.jpeg" Opacity=".89"/>
+        </Grid.Background>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Label x:Name="name_label" Grid.Row="0" Grid.Column="0" Content="Welcome Hosny" FontSize="19" FontWeight="Bold" Width="auto" Height="45" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+        <Grid Grid.Row="1" Grid.Column="0" Height="auto" >
+            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="0" Width="auto" Height="auto" HorizontalAlignment="Right" Margin="0,1,0,0">
+                <Label Content="ID:" FontSize="25" FontWeight="Bold" Width="auto" Height="auto" Foreground="White"/>
+                <Border BorderBrush="White" BorderThickness="1" Width="auto" Height="auto" Background="White" CornerRadius="8">
+                    <TextBox x:Name="ID_txt"  Width="120" Height="35" BorderThickness="0" FontSize="25" Padding="5,1"/>
+                </Border>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="1" Width="auto" Height="auto" HorizontalAlignment="Right" Margin="0,1,0,0">
+                <Label Content="Title:" FontSize="25" FontWeight="Bold" Width="auto" Height="auto" Foreground="White"/>
+                <Border BorderBrush="White" BorderThickness="1" Width="auto" Height="auto" Background="White" CornerRadius="8">
+                    <TextBox x:Name="Title_txt"  Width="120" Height="35" BorderThickness="0" FontSize="25" Padding="5,1"/>
+                </Border>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="0" Width="auto" Height="auto" Margin="0,3,0,0" HorizontalAlignment="Right">
+                <Label Content="Auther:" FontSize="25" FontWeight="Bold" Width="auto" Height="auto" Foreground="White"/>
+                <Border BorderBrush="White" BorderThickness="1" Width="auto" Height="auto" Background="White" CornerRadius="8">
+                    <TextBox x:Name="Auther_txt"  Width="120" Height="35" BorderThickness="0" FontSize="25" Padding="5,1"/>
+                </Border>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="1" Width="auto" Height="auto" HorizontalAlignment="Right" Margin="0,3,0,0">
+                <Label Content="ISBN:" FontSize="25" FontWeight="Bold" Width="auto" Height="auto" Foreground="White"/>
+                <Border BorderBrush="White" BorderThickness="1" Width="auto" Height="auto" Background="White" CornerRadius="8">
+                    <TextBox x:Name="ISBN_txt"  Width="120" Height="35" BorderThickness="0" FontSize="25" Padding="5,1"/>
+                </Border>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="0" Width="auto" Height="auto" HorizontalAlignment="Right" Margin="0,3,0,0">
+                <Label Content="Price:" FontSize="25" FontWeight="Bold" Width="auto" Height="auto" Foreground="White"/>
+                <Border BorderBrush="White" BorderThickness="1" Width="auto" Height="auto" Background="White" CornerRadius="8">
+                    <TextBox x:Name="Price_txt"  Width="120" Height="35" BorderThickness="0" FontSize="25" Padding="5,1"/>
+                </Border>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="1" Width="auto" Height="auto" HorizontalAlignment="Right" Margin="0,3,0,0">
+                <Label Content="Quantity:" FontSize="25" FontWeight="Bold" Width="auto" Height="auto" Foreground="White"/>
+                <Border BorderBrush="White" BorderThickness="1" Width="auto" Height="auto" Background="White" CornerRadius="8">
+                    <TextBox x:Name="Quantity_txt"  Width="120" Height="35" BorderThickness="0" FontSize="25" Padding="5,1"/>
+                </Border>
+            </StackPanel>
+
+            <Border Grid.Column="0" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Right" Width="auto" Height="auto" BorderThickness="5" BorderBrush="White" CornerRadius="5" Background="White" Margin="0,10,0,0">
+                <Button Click="Add_Book" Width="110" Height="51" BorderThickness="0" Background="White" Content="Save" FontSize="18" FontWeight="Medium"/>
+            </Border>
+
+            <Border Grid.Column="1" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Right" Width="auto" Height="auto" BorderThickness="5" BorderBrush="White" CornerRadius="5" Background="White" Margin="0,10,0,0">
+                <Button Click="Remove_Book" Width="110" Height="51" BorderThickness="0" Background="White" Content="Remove" FontSize="18" FontWeight="Medium"/>
+            </Border>
+
+        </Grid>
+
+        <Label Grid.Row="5" Content="Note:To Just You Just Add Book ID In ID Field" FontSize="10" Foreground="Black" FontWeight="Bold"  Margin="10,20"/>
+    </Grid>
+</Page>
