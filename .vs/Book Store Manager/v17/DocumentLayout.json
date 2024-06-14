@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{E7F86C51-1BFF-46AF-BD7E-0873478824FC}|Book Store Manager\\Book Store Manager.csproj|solutionrelative:book store manager\\login_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7F86C51-1BFF-46AF-BD7E-0873478824FC}|Book Store Manager\\Book Store Manager.csproj|c:\\users\\pc\\source\\repos\\book store manager\\book store manager\\librarian_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7F86C51-1BFF-46AF-BD7E-0873478824FC}|Book Store Manager\\Book Store Manager.csproj|C:\\Users\\PC\\source\\repos\\Book Store Manager\\book store manager\\librarian_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7F86C51-1BFF-46AF-BD7E-0873478824FC}|Book Store Manager\\Book Store Manager.csproj|solutionrelative:book store manager\\librarian_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7F86C51-1BFF-46AF-BD7E-0873478824FC}|Book Store Manager\\Book Store Manager.csproj|c:\\users\\pc\\source\\repos\\book store manager\\book store manager\\librarian_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E7F86C51-1BFF-46AF-BD7E-0873478824FC}|Book Store Manager\\Book Store Manager.csproj|C:\\Users\\PC\\source\\repos\\Book Store Manager\\book store manager\\librarian_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E7F86C51-1BFF-46AF-BD7E-0873478824FC}|Book Store Manager\\Book Store Manager.csproj|solutionrelative:book store manager\\librarian_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{E7F86C51-1BFF-46AF-BD7E-0873478824FC}|Book Store Manager\\Book Store Manager.csproj|solutionrelative:book store manager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7F86C51-1BFF-46AF-BD7E-0873478824FC}|Book Store Manager\\Book Store Manager.csproj|c:\\users\\pc\\source\\repos\\book store manager\\book store manager\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{E7F86C51-1BFF-46AF-BD7E-0873478824FC}|Book Store Manager\\Book Store Manager.csproj|C:\\Users\\PC\\source\\repos\\Book Store Manager\\book store manager\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{E7F86C51-1BFF-46AF-BD7E-0873478824FC}|Book Store Manager\\Book Store Manager.csproj|solutionrelative:book store manager\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -58,48 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\App.config",
-              "RelativeDocumentMoniker": "Book Store Manager\\App.config",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\App.config",
-              "RelativeToolTip": "Book Store Manager\\App.config",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-26T22:20:15.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Librarian_Page.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\Librarian_Page.xaml.cs",
-              "RelativeDocumentMoniker": "Book Store Manager\\Librarian_Page.xaml.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\Librarian_Page.xaml.cs",
-              "RelativeToolTip": "Book Store Manager\\Librarian_Page.xaml.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T22:19:02.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Librarian_Page.xaml",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\Librarian_Page.xaml",
-              "RelativeDocumentMoniker": "Book Store Manager\\Librarian_Page.xaml",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\Librarian_Page.xaml",
-              "RelativeToolTip": "Book Store Manager\\Librarian_Page.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-26T21:25:19.108Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 10,
@@ -120,8 +80,7 @@
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\ForgetPassword_Page.xaml",
               "RelativeToolTip": "Book Store Manager\\ForgetPassword_Page.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-25T22:31:47.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T22:31:47.347Z"
             },
             {
               "$type": "Document",
@@ -132,8 +91,7 @@
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\LogIn_Page.xaml",
               "RelativeToolTip": "Book Store Manager\\LogIn_Page.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-25T22:31:44.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T22:31:44.951Z"
             },
             {
               "$type": "Document",
@@ -144,8 +102,52 @@
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\SignUp_Page.xaml",
               "RelativeToolTip": "Book Store Manager\\SignUp_Page.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-25T21:45:25.748Z",
+              "WhenOpened": "2024-05-25T21:45:25.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogIn_Page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\LogIn_Page.xaml.cs",
+              "RelativeDocumentMoniker": "Book Store Manager\\LogIn_Page.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\LogIn_Page.xaml.cs",
+              "RelativeToolTip": "Book Store Manager\\LogIn_Page.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T23:44:11.351Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Librarian_Page.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\Librarian_Page.xaml",
+              "RelativeDocumentMoniker": "Book Store Manager\\Librarian_Page.xaml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\Librarian_Page.xaml",
+              "RelativeToolTip": "Book Store Manager\\Librarian_Page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-26T21:25:19.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Librarian_Page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\Librarian_Page.xaml.cs",
+              "RelativeDocumentMoniker": "Book Store Manager\\Librarian_Page.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\Librarian_Page.xaml.cs",
+              "RelativeToolTip": "Book Store Manager\\Librarian_Page.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:19:02.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\App.config",
+              "RelativeDocumentMoniker": "Book Store Manager\\App.config",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\App.config",
+              "RelativeToolTip": "Book Store Manager\\App.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-26T22:20:15.697Z"
             },
             {
               "$type": "Document",
@@ -167,20 +169,7 @@
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\App.xaml",
               "RelativeToolTip": "Book Store Manager\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-24T00:13:48.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LogIn_Page.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\LogIn_Page.xaml.cs",
-              "RelativeDocumentMoniker": "Book Store Manager\\LogIn_Page.xaml.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\LogIn_Page.xaml.cs",
-              "RelativeToolTip": "Book Store Manager\\LogIn_Page.xaml.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T23:44:11.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T00:13:48.767Z"
             },
             {
               "$type": "Document",
@@ -191,8 +180,7 @@
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\Borrowing_Page.xaml",
               "RelativeToolTip": "Book Store Manager\\Borrowing_Page.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-23T22:56:04.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T22:56:04.353Z"
             },
             {
               "$type": "Document",
@@ -203,8 +191,7 @@
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Book Store Manager\\Book Store Manager\\Borrowing_Page.xaml.cs",
               "RelativeToolTip": "Book Store Manager\\Borrowing_Page.xaml.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T23:31:55.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T23:31:55.455Z"
             }
           ]
         }
