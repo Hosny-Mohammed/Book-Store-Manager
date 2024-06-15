@@ -21,7 +21,7 @@ namespace Book_Store_Manager
     /// </summary>
     public partial class ForgetPassword_Page : Page
     {
-        BookStoreDBEntities DB = new BookStoreDBEntities();
+        BookStoreDBEntities1 DB = new BookStoreDBEntities1();
         PasswordValidation passwordValidation = new PasswordValidation();
         public ForgetPassword_Page()
         {

@@ -25,7 +25,7 @@ namespace Book_Store_Manager
     /// </summary>
     public partial class Borrowing_Page : Page
     {
-        BookStoreDBEntities DB = new BookStoreDBEntities();
+        BookStoreDBEntities1 DB = new BookStoreDBEntities1();
         private List<Book> books_available(){
             List<Book> list = new List<Book>();
             foreach(Book b in DB.Books)

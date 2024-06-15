@@ -20,7 +20,7 @@ namespace Book_Store_Manager
     /// </summary>
     public partial class SignUp_Page : Page
     {
-        BookStoreDBEntities DB = new BookStoreDBEntities();
+        BookStoreDBEntities1 DB = new BookStoreDBEntities1();
         public SignUp_Page()
         {
             InitializeComponent();

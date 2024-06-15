@@ -67,7 +67,7 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
-  <EntityContainer Name="BookStoreDBEntities" annotation:LazyLoadingEnabled="true">
+  <EntityContainer Name="BookStoreDBEntities1" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Books" EntityType="Self.Book" />
     <EntitySet Name="Borrowing_Books" EntityType="Self.Borrowing_Books" />
     <EntitySet Name="Librarians" EntityType="Self.Librarian" />

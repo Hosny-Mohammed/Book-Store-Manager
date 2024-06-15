@@ -4,11 +4,11 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="b0a1437b2bd248edaa0ad118d4e2c0d2" Name="Diagram1" ZoomLevel="118">
-        <EntityTypeShape EntityType="BookStoreDBModel.Book" Width="1.5" PointX="3.625" PointY="1.25" IsExpanded="true" />
-        <EntityTypeShape EntityType="BookStoreDBModel.Borrowing_Books" Width="1.5" PointX="6.125" PointY="1.125" IsExpanded="true" />
-        <EntityTypeShape EntityType="BookStoreDBModel.Librarian" Width="1.5" PointX="8" PointY="3.375" IsExpanded="true" />
-        <EntityTypeShape EntityType="BookStoreDBModel.User" Width="1.5" PointX="5" PointY="4.625" IsExpanded="true" />
+      <Diagram DiagramId="0f2018d2f0754c6f8a510f2a46948b58" Name="Diagram1">
+        <EntityTypeShape EntityType="BookStoreDBModel.Book" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookStoreDBModel.Borrowing_Books" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookStoreDBModel.Librarian" Width="1.5" PointX="6" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookStoreDBModel.User" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
         <AssociationConnector Association="BookStoreDBModel.FK__Borrowing__BookI__70DDC3D8" ManuallyRouted="false" />
         <AssociationConnector Association="BookStoreDBModel.FK__Borrowing__UserI__6FE99F9F" ManuallyRouted="false" />
       </Diagram>

@@ -27,7 +27,7 @@
         <Label x:Name="name_label" Grid.Row="0" Grid.Column="0" Content="Welcome Hosny" FontSize="19" FontWeight="Bold" Width="auto" Height="45" HorizontalAlignment="Center" VerticalAlignment="Top"/>
 
         <Grid Grid.Row="1" Grid.Column="0" Height="auto" >
-            
+
             <Grid.RowDefinitions>
                 <RowDefinition Height="auto"/>
                 <RowDefinition Height="auto"/>
@@ -93,6 +93,29 @@
 
         </Grid>
 
-        <Label Grid.Row="5" Content="Note:To Just You Just Add Book ID In ID Field" FontSize="10" Foreground="Black" FontWeight="Bold"  Margin="10,20"/>
+        <Label Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Top" Content="Books Details" FontSize="15" FontWeight="Bold"/>
+
+        <DataGrid x:Name="Books_DataGrid" Grid.Row="1" Grid.Column="1" Margin="20,40,20,0" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding BookID}"/>
+                <DataGridTextColumn Header="Title" Binding="{Binding Title}"/>
+                <DataGridTextColumn Header="Author" Binding="{Binding Author}"/>
+                <DataGridTextColumn Header="ISBN" Binding="{Binding ISBN}"/>
+                <DataGridTextColumn Header="Price" Binding="{Binding Price}"/>
+                <DataGridTextColumn Header="Quantity" Binding="{Binding Quantity}"/>
+            </DataGrid.Columns>
+            
+        </DataGrid>
+
+        <Label Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Top" Content="Borrower Details" FontSize="15" FontWeight="Bold"/>
+
+        <DataGrid x:Name="Borrower_Details" Grid.Row="2" Grid.Column="1" Margin="20,40,20,10"/>
+
+        <Label Grid.Row="5" Content="Note:To Remove Book You Just Add Book ID In ID Field" FontSize="10" Foreground="Black" FontWeight="Bold"  Margin="10,20" Cursor="Help"/>
+
+        <Label Grid.Row="5" Content="Note:To Modify Book Details You Just Write Book ID In And Modify As You Want" FontSize="10" Foreground="Black" FontWeight="Bold"  Margin="10,40" Cursor="Help"/>
+
+        <Label Grid.Row="5" Content="Note: You Don't Need To Add an ID When You Add a Book" FontSize="10" Foreground="Black" FontWeight="Bold"  Margin="10,60" Cursor="Help"/>
+
     </Grid>
 </Page>
